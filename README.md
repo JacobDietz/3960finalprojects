@@ -1,0 +1,2 @@
+*NOTE*
+I was asked to do this demo on a different dataset from the ones used in the DVote video. I fouund my DB online, but this project requires fake data (representing the votes of candidates from voters) and used AI to generate a script to do this. I made a Piazza post about it and was told that was perfectly fine, but just wanted to be extra clear. 
